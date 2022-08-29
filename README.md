@@ -16,9 +16,6 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] Enable Scrolling for long app pages
-* [ ] Addition of navigation features such as drop down menu 
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
