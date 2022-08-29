@@ -1,6 +1,6 @@
 # Android Prework - Hello World!
 
-Submitted by: Dalitso Banda
+Submitted by: **Dalitso Banda**
 
 "Hello World!" is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
