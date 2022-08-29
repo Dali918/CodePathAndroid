@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-- Faced some initiial troubles with getting android studio to install HAXM on windows. Installation was successful after enabling virtualization
+- Faced some initial setup issues with Android Studio specifically with HAXM installation on windows. Installation was successful after enabling virtualization
 in BIOS. 
 
 ## License
